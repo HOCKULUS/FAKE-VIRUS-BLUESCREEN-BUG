@@ -1,0 +1,2 @@
+# FAKE-VIRUS-BLUESCREEN-BUG
+Funny WIN10 Bluescreen
