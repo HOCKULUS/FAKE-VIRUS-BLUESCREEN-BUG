@@ -1,3 +1,4 @@
 # FAKE-VIRUS-BLUESCREEN-BUG
 Funny WIN10 Bluescreen
 HIT: CTRL+ALT+DEL and LOG OUT to QUIT!
+PREVIEW: https://youtu.be/bwFtPnoMAQ8
